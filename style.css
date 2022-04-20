@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#heading {
+  padding: 100px;
+  color: aquamarine;
+  font-size: 200px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: 1px solid aqua;
+}
